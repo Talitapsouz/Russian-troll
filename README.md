@@ -5,7 +5,7 @@ Overview:
 
 Dataset is from https://www.kaggle.com/datasets/fivethirtyeight/russian-troll-tweets
 
-Datasets: twets.csv 
+Dataset: twets.csv 
 
 Report ADA Data Analysis you can find all details related to the code and the project.
 
